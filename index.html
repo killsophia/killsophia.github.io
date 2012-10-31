@@ -3,6 +3,7 @@ layout: default
 title: index
 ---
 <div class='post'>
-    <h1><a href='{{ site.posts.first.url }}'>{{ site.posts.first.title }}</a></h1>
-    <div class='body'>{{ site.posts.first.content }}</div>
+     {% for post in site.posts limit: 15 %}
+      <div> {{ post.conten }}</div>
+    {% endfor %}
 </div>
