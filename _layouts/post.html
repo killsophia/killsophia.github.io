@@ -2,6 +2,13 @@
 layout: default
 ---
 
-<div class="blog">
-	{{ content }}
+<div class="post">
+	<ul class="breadcrumb">
+  		<li><a href="/">Home</a> <span class="divider">/</span></li>
+ 		 <li><a href="#">Library</a> <span class="divider">/</span></li>
+  		<li class="active">{{page.title}}</li>
+	</ul>
+	<div class="content">
+		{{content}}
+	</div>
 </div>
