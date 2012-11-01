@@ -5,13 +5,17 @@ layout: default
 <div class="post">
 	<ul class="breadcrumb">
   		<li><a href="/">Home</a> <span class="divider">/</span></li>
- 		 <li><a href="/{{page.category}}">{{page.category}}</a> <span class="divider">/</span></li>
+ 		 <li><a href="/{{page.category}}">{{page.category}}	</a> <span class="divider">/</span></li>
   		<li class="active">{{page.title}}</li>
 	</ul>
 	<div class="well">
 		<h3>{{page.title}}</h3>
 		<span><strong>author:</strong>{{page.author}}</span>
 		<span><strong>date:</strong>{{page.date}}</span>
+		<br>
+		<div class="share"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
 	</div>
 	<div class="content">
 		{{content}}
