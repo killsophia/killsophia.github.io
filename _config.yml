@@ -2,5 +2,5 @@ permalink: /:title
 server: true
 auto: true
 pygments: true
-markdown: kramdown
+markdown: rdiscount
 #rdiscount
