@@ -1,8 +1,8 @@
 ---
+author: fuluchii
+title: I&#8217;m afraid of low level programming.
 layout: post
-title: Helloworld
-author: 钱满
-category: test
+category: code
 ---
 ### test
 this is a test text of jekyll blog engine.
