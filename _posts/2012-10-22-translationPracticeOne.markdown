@@ -2,6 +2,7 @@
 layout: post
 title: 翻译：刀之津诊疗所异闻(1)
 author: 钱满
+category: 翻译
 ---
 
 
