@@ -9,9 +9,8 @@ layout: default
   		<li class="active">{{page.title}}</li>
 	</ul>
 	<div class="well">
-		<h3>{{page.title}}</h3>
-		<span><strong>author:</strong>{{page.author}}</span>
-		<span><strong>date:</strong>{{post.date | date_to_string}}</span>
+		<span><strong>author:</strong>{{page.author}}</span>	
+		<h3>{{page.title}}<small>{{ page.date | date_to_string}}</small></h3>
 		<br>
 		<div class="share"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -21,7 +20,6 @@ layout: default
 		  			var param = {
 				    url:location.href,
 				    type:'3',
-				    count:'1', /**是否显示分享数，1显示(可选)*/
 				    appkey:'2424264567', /**您申请的应用appkey,显示分享来源(可选)*/
 				    title:'分享自钱满的blog：{{page.title}}', /**分享的文字内容(可选，默认为所在页面的title)*/
 					language:'zh_cn', /**设置语言，zh_cn|zh_tw(可选)*/
