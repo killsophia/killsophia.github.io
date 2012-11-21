@@ -8,7 +8,6 @@
     <style type="text/css">
       .container-center {
         margin:0 auto;
-        max-width: 700px;
       }
       .container-narrow > hr{
         margin: 50px;
@@ -17,10 +16,15 @@
         margin:0 auto;
         max-width: 700px;
       }
+      .aboutme{
+        width: 150px;
+        font-family:Microsoft YaHei;
+        color: rgb(130,130,130);
+      }
     </style>
   </head>
   <body>
-    <div class="container-center">
+    <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li><a class="btn btn-info" href="https://twitter.com/fuluchii">
@@ -31,8 +35,23 @@
         <h2 class="muted">Fuluchii's Blog</h3>
       </div>
       <hr>
-      <div class="posts">
-        {{content}}
+      <div class="container">
+        <div class="row">
+          <div class="span8">
+                    {{content}}
+          </div>
+          <div class="span4">
+            <div class="well clearfix">
+              <img class="img-circle" src="http://www.gravatar.com/avatar/e30d7363af68b03820281f6ade7ba590" />
+               <div class="aboutme pull-right">
+                <h4>ABOUT ME</h4>
+                <p><a src="http://twitter.com/fuluchii">fuluchii@twitter</a></p>
+                <p>福禄钱恩@weibo</p>
+                <p>fuluchii@github</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <hr>
       <footer class="muted">    
@@ -46,6 +65,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="../javascripts/bootstrap.min.js"></script>
+    <script src="../javascripts/jquery.md5.js"></script>
     <script type="text/javascript">
     </script>
     <script type="text/javascript">
