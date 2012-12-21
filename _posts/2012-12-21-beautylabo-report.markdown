@@ -2,7 +2,7 @@
 title: 向牛奶焦糖棕出发
 layout: post
 author: 钱满
-category: code
+category: life
 ---
 
 ### 向牛奶焦糖棕出发
