@@ -15,7 +15,7 @@ cp11的第一天，宅日，天气阴而冷，我迟到了。
 
 #### 排队时候看到的林克，装备赞！
 
-![照片](/img/link.jpg)
+<img src="/img/link.jpg" width="100%" />
 
 #### 颤抖吧程序员们！！！
 ![di](/img/dilbert.jpg)
