@@ -3,15 +3,9 @@ layout: default
 ---
 
 <div class="post">
-	<ul class="breadcrumb">
-  		<li><a href="/">Home</a> <span class="divider">/</span></li>
- 		 <li><a href="/{{page.category}}">{{page.category}}	</a> <span class="divider">/</span></li>
-  		<li class="active">{{page.title}}</li>
-	</ul>
-	<div class="well">
-		<span><strong>author:</strong>{{page.author}}</span>	
+	<div>
+		<span><strong>from:</strong>{{page.author}}</span>	
 		<h3>{{page.title}}<small>{{ page.date | date_to_string}}</small></h3>
-		<br>
 		<div class="share"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 			<script type="text/javascript" charset="utf-8">
@@ -34,6 +28,7 @@ layout: default
 		</script>
 		</div>
 	</div>
+	<hr>
 	<div class="content">
 		{{content}}
 	</div>
