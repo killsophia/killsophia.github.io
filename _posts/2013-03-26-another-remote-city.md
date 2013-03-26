@@ -1,6 +1,6 @@
 ---
 title: 边城和编程
-author:钱满
+author: 钱满
 layout: post
 ---
 1. 我看不下去的两个作者。一个是王小波，一个是沈从文。
