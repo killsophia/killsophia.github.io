@@ -55,7 +55,7 @@ task deleteTest(type:Delete,dependsOn: deploy2tomcat) {
 }
 
 task restarttomcate(type:Exec,dependsOn: deleteTest){
-    workingDir '/Users/fuluchii/Documents/code.dianping.com/personal-scripts'
+    workingDir '/path/to/scripts/personal-scripts'
     commandLine './rt.sh'
 }
 {% endhighlight %}
