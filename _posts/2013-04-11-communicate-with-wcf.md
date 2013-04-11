@@ -18,13 +18,15 @@ wsimport -s dirName wsdlURL
 
 但是！在上测试环境的时候出现了问题。
 
-在发送soapmsg的时候一直报一个exception。稍微查一下泪流满面，这里就出现了上面使用wsimport的隐患。由于测试环境是JBOSS4.X，刚好在soapMsg这里和jdk1.6有兼容性问题，导致报错。而我本地用的容器是tomcat6/7，所以本地pass,测试环境挂了= =
+在发送soapmsg的时候一直报一个exception，`setProperty must be overridden by all subclasses of SOAPMessage`。稍微查一下泪流满面，这里就出现了上面使用wsimport的隐患。由于测试环境是JBOSS4.X，刚好在soapMsg这里和jdk1.6有兼容性问题，导致报错。而我本地用的容器是tomcat6/7，所以本地pass,测试环境挂了= =
 
 我觉得这个就是因为我使用了jdk1.6的wsimport导致的。实际上我在看的时候，用的比较多的生成客户端的工具是axis，但是当时觉得很麻烦，所以直接使用了自带工具。于是掉了个坑。
 
-后来由于怕axis还是有这样的问题以及时间问题，所以干脆使用了简单粗暴的方法：直接发送http请求，在请求里直接写soap请求的xml。
+后来由于怕axis还是有这样的问题以及考虑到时间，所以干脆使用了简单粗暴的方法：直接发送http请求，写soap请求的xml。
 
 但是这样的话，需要知道对应的soap请求的格式。这里需要推荐一个工具叫做 SoupUI，这个工具对于测试soap接口非常好，输入wsdl地址的，会为你生成一个request sample，我这里直接抄就可以了。
+
+需要注意的是，对于定义了soupAction的WCF，需要在请求里加上`SOAPAction`这个header，另外`Content-Type`需要设置为`text/xml; charset=utf-8`。
 
 不过昨天下载的时候速度实在是太慢了，好多次下到10M就卡住了。于是在这个时间里面我想不如我直接抓本地发出去的请求拉倒了。但是悲伤的是mac没有fiddler，然后charles不知道为什么失灵了（可能因为挂VPN），然后cocoaPackageAnalyzer似乎没有办法直接拿报文。。搞了好久最后soupui下载好了= =
 
