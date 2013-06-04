@@ -1,4 +1,4 @@
-permalink: /:slug.html 
+permalink: /:title.html 
 server: true
 auto: true
 pygments: true
