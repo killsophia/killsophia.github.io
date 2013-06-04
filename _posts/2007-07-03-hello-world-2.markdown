@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2007-07-03 02:05:57+00:00
 layout: post
-slug: hello-world-2
+slug: 205092
 title: 建筑我心 开站了
 wordpress_id: 205092
 categories:

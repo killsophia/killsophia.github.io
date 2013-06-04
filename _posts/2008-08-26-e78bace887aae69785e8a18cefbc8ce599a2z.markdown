@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-08-26 13:07:10+00:00
 layout: post
-slug: '%e7%8b%ac%e8%87%aa%e6%97%85%e8%a1%8c%ef%bc%8c%e5%99%a2z'
+slug: '631617'
 title: 独自旅行，噢
 wordpress_id: 631617
 categories:

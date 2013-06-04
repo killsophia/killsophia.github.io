@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-05-18 14:53:07+00:00
 layout: post
-slug: '%e5%a4%ae%e8%a7%86%e8%b5%88%e7%81%be%e5%8b%9f%e6%8d%90%e6%99%9a%e4%bc%9a'
+slug: '628222'
 title: 央视赈灾募捐晚会
 wordpress_id: 628222
 categories:

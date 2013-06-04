@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-06-19 15:21:22+00:00
 layout: post
-slug: i-know-you-will-be-good%ef%bc%88%e6%af%95%e4%b8%9a%e7%ba%aa%e4%ba%8b%e4%b8%80%ef%bc%89
+slug: '639747'
 title: I Know You Will Be Good（毕业纪事一）
 wordpress_id: 639747
 categories:

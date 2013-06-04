@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-16 08:48:06+00:00
 layout: post
-slug: '%e4%b8%8d%e7%9f%a5%e9%81%93%e8%af%a5%e8%af%b4%e4%ba%9b%e4%bb%80%e4%b9%88%e7%9a%84%e7%8e%b0%e5%9c%a8'
+slug: '639072'
 title: 不知道该说些什么的现在
 wordpress_id: 639072
 categories:

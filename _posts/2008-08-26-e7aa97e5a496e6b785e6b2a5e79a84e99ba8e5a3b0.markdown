@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-08-26 15:50:53+00:00
 layout: post
-slug: '%e7%aa%97%e5%a4%96%e6%b7%85%e6%b2%a5%e7%9a%84%e9%9b%a8%e5%a3%b0'
+slug: '631623'
 title: 窗外淅沥的雨声
 wordpress_id: 631623
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-06-08 02:25:58+00:00
 layout: post
-slug: '%e7%bb%bf%e5%9f%8e%e6%a0%b7%e6%9d%bf%e6%88%bf%e4%b9%8b%e7%97%9b'
+slug: '628986'
 title: 绿城样板房之痛
 wordpress_id: 628986
 categories:

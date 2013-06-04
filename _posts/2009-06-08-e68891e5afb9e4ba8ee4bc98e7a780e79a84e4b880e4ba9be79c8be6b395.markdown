@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-06-08 06:37:02+00:00
 layout: post
-slug: '%e6%88%91%e5%af%b9%e4%ba%8e%e4%bc%98%e7%a7%80%e7%9a%84%e4%b8%80%e4%ba%9b%e7%9c%8b%e6%b3%95'
+slug: '639599'
 title: 我对于“优秀”的一些看法
 wordpress_id: 639599
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-02 15:10:58+00:00
 layout: post
-slug: '%e7%9c%8b%e7%be%8e%e5%89%a7%e6%9e%81%e4%b8%ba%e6%97%a0%e8%af%ad%e7%9a%84%e5%9c%b0%e6%96%b9'
+slug: '639546'
 title: 看美剧极为无语的地方
 wordpress_id: 639546
 categories:

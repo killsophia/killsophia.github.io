@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-01-20 10:28:00+00:00
 layout: post
-slug: '%e8%8a%b1%e9%9d%9e%e8%8a%b1'
+slug: '639804'
 title: 花非花
 wordpress_id: 639804
 categories:

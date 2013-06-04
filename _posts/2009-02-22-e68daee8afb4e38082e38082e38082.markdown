@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-02-22 09:50:09+00:00
 layout: post
-slug: '%e6%8d%ae%e8%af%b4%e3%80%82%e3%80%82%e3%80%82'
+slug: '637262'
 title: 据说。。。
 wordpress_id: 637262
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-03-26 05:25:09+00:00
 layout: post
-slug: '%e6%9d%a5%e5%87%a0%e5%bc%a0%e8%b6%a3%e5%9b%be'
+slug: '638315'
 title: 来几张趣图
 wordpress_id: 638315
 categories:

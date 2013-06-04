@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-08-22 09:49:55+00:00
 layout: post
-slug: '%e5%8f%aa%e6%9c%89%e5%ad%a4%e5%af%82%e6%89%8d%e6%98%af%e6%b0%b8%e6%81%92%e7%9a%84'
+slug: '639642'
 title: 只有孤寂才是永恒的
 wordpress_id: 639642
 categories:

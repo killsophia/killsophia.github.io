@@ -4,7 +4,7 @@ comments: true
 date: 2007-07-03 02:05:57+00:00
 layout: post
 published: false
-slug: '%e5%85%b3%e4%ba%8e'
+slug: '205093'
 title: 关于
 wordpress_id: 205093
 categories:

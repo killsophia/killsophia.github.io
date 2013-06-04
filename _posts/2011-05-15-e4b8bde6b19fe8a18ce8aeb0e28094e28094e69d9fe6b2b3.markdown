@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-05-15 02:23:38+00:00
 layout: post
-slug: '%e4%b8%bd%e6%b1%9f%e8%a1%8c%e8%ae%b0%e2%80%94%e2%80%94%e6%9d%9f%e6%b2%b3'
+slug: '639908'
 title: 丽江行记——束河
 wordpress_id: 639908
 categories:

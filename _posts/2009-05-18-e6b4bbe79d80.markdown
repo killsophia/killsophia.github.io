@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-18 08:31:33+00:00
 layout: post
-slug: '%e6%b4%bb%e7%9d%80'
+slug: '639582'
 title: 活着
 wordpress_id: 639582
 categories:

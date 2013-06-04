@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-01-21 02:01:33+00:00
 layout: post
-slug: '%e8%af%84%e8%ae%ba%e6%8f%92%e4%bb%b6%e6%9c%89%e4%ba%9b%e9%97%ae%e9%a2%98'
+slug: '639821'
 title: 评论插件有些问题
 wordpress_id: 639821
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-11-26 08:43:14+00:00
 layout: post
-slug: '%e5%ae%89%e9%9d%99%e7%9a%84%e5%a6%82%e6%ad%a4%e5%93%8d%e4%ba%ae'
+slug: '639704'
 title: 安静的如此响亮
 wordpress_id: 639704
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-08-15 06:02:27+00:00
 layout: post
-slug: '%e7%bb%99%e5%bb%ba%e7%ad%91%e5%ad%a6%e4%b8%93%e4%b8%9a%e6%96%b0%e9%b2%9c%e4%ba%ba'
+slug: '639950'
 title: 给建筑学专业新鲜人
 wordpress_id: 639950
 categories:

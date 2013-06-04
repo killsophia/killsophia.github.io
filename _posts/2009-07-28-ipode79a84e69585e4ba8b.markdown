@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-07-28 04:44:21+00:00
 layout: post
-slug: ipod%e7%9a%84%e6%95%85%e4%ba%8b
+slug: '639620'
 title: ipod的故事
 wordpress_id: 639620
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-05-23 15:41:03+00:00
 layout: post
-slug: '%e5%8d%81%e5%b9%b4'
+slug: '639910'
 title: 十年
 wordpress_id: 639910
 categories:

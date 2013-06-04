@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2007-10-02 04:38:27+00:00
 layout: post
-slug: '%e6%b7%b1%e5%a4%9c%e7%9a%84%e7%b5%ae%e8%af%ad'
+slug: '433836'
 title: 深夜的絮语
 wordpress_id: 433836
 categories:

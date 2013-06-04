@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-06-27 13:07:41+00:00
 layout: post
-slug: '%e6%8f%90%e5%89%8d%e5%88%b0%e6%9d%a5%e7%9a%84%e7%a6%bb%e6%84%81'
+slug: '639607'
 title: 提前到来的离愁
 wordpress_id: 639607
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-03-17 01:04:19+00:00
 layout: post
-slug: live-writer-2
+slug: '637921'
 title: Live Writer!
 wordpress_id: 637921
 categories:

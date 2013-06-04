@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-17 03:19:59+00:00
 layout: post
-slug: emule%e8%ae%a8%e8%ae%ba%ef%bc%9a%e4%bb%80%e4%b9%88%e6%98%af%e5%90%b8%e8%a1%80%ef%bc%8c%e5%a6%82%e4%bd%95%e5%ae%9a%e4%b9%89%e5%90%b8%e8%a1%80%e8%a1%8c%e4%b8%ba%ef%bc%8c%e5%a6%82%e4%bd%95%e5%af%b9
+slug: '639573'
 title: EMULE讨论：什么是吸血，如何定义吸血行为，如何对抗吸血行为
 wordpress_id: 639573
 categories:

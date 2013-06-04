@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-09-13 23:55:58+00:00
 layout: post
-slug: '%e5%9c%9f%e6%98%9f%e7%8e%af-by-%e9%99%88%e5%a5%95%e8%bf%85'
+slug: '639646'
 title: 土星环 by 陈奕迅
 wordpress_id: 639646
 categories:

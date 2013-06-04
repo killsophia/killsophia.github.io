@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-03-29 14:48:10+00:00
 layout: post
-slug: '%e7%9b%b4%e8%a7%89%ef%bc%8c%e7%9b%b4%e8%a7%89'
+slug: '638400'
 title: 直觉，直觉
 wordpress_id: 638400
 categories:

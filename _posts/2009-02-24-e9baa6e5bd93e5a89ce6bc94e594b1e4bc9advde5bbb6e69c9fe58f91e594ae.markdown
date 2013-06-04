@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-02-24 13:27:43+00:00
 layout: post
-slug: '%e9%ba%a6%e5%bd%93%e5%a8%9c%e6%bc%94%e5%94%b1%e4%bc%9advd%e5%bb%b6%e6%9c%9f%e5%8f%91%e5%94%ae'
+slug: '637300'
 title: 麦当娜演唱会DVD延期发售
 wordpress_id: 637300
 categories:

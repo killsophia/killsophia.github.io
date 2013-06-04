@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-01 01:41:11+00:00
 layout: post
-slug: '%e7%a5%9e%e5%a5%87%e7%9a%84%e4%b8%80%e5%88%87'
+slug: '638486'
 title: 神奇的一切
 wordpress_id: 638486
 categories:

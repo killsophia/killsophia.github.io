@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-12-12 10:18:13+00:00
 layout: post
-slug: '%e4%b8%bd%e6%b1%9f%e8%a1%8c%e8%ae%b0%e2%80%94%e2%80%94%e9%9b%aa%e5%b1%b1'
+slug: '639778'
 title: 丽江行记——雪山
 wordpress_id: 639778
 categories:

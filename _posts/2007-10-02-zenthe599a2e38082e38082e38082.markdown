@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2007-10-02 04:35:36+00:00
 layout: post
-slug: zenth%e5%99%a2%e3%80%82%e3%80%82%e3%80%82
+slug: '433834'
 title: Zenth...噢。。。
 wordpress_id: 433834
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-03-20 03:42:43+00:00
 layout: post
-slug: snow-patrol-%e9%9b%aa%e5%b7%a1
+slug: '638006'
 title: Snow Patrol-雪巡
 wordpress_id: 638006
 categories:

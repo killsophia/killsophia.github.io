@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-05-22 03:50:59+00:00
 layout: post
-slug: '%e7%ac%91%e7%ba%a2%e5%b0%98'
+slug: '628289'
 title: 笑红尘
 wordpress_id: 628289
 categories:

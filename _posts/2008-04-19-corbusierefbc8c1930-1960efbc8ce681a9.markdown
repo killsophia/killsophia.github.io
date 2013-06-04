@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-04-19 02:49:10+00:00
 layout: post
-slug: corbusier%ef%bc%8c1930-1960%ef%bc%8c%e6%81%a9
+slug: '626826'
 title: Corbusier，1930-1960，恩
 wordpress_id: 626826
 categories:

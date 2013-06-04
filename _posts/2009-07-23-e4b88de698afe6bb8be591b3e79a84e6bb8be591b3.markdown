@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-07-23 14:44:56+00:00
 layout: post
-slug: '%e4%b8%8d%e6%98%af%e6%bb%8b%e5%91%b3%e7%9a%84%e6%bb%8b%e5%91%b3'
+slug: '639618'
 title: 不是滋味的滋味
 wordpress_id: 639618
 categories:

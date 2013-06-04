@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-04-22 06:53:28+00:00
 layout: post
-slug: '%e6%83%b3%e7%95%99%e4%b8%8d%e8%83%bd%e7%95%99%e6%89%8d%e6%9c%80%e5%af%82%e5%af%9e'
+slug: '639740'
 title: 想留不能留才最寂寞
 wordpress_id: 639740
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2012-01-10 06:03:41+00:00
 layout: post
-slug: '%e8%bf%91%e6%9c%9f%e7%9a%84%e4%b8%80%e4%ba%9b%e5%b0%8f%e5%8f%98%e5%8a%a8'
+slug: '639985'
 title: 近期的一些小变动
 wordpress_id: 639985
 categories:

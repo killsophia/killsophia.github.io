@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-01-04 05:48:29+00:00
 layout: post
-slug: '%e6%b5%8b%e8%af%95scribefire'
+slug: '639794'
 title: 测试scribefire
 wordpress_id: 639794
 categories:

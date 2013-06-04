@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-31 16:02:50+00:00
 layout: post
-slug: '%e5%85%ad%e4%b8%80%e5%bf%ab%e4%b9%90'
+slug: '639585'
 title: 六一快乐
 wordpress_id: 639585
 categories:

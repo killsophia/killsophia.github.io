@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-03-18 04:38:14+00:00
 layout: post
-slug: '%e9%9b%85%e6%80%9d%e5%86%99%e4%bd%9c%ef%bc%88a%e7%b1%bb%ef%bc%89%ef%bc%9a%e6%88%91%e7%9a%84%e5%be%97%e4%b8%8e%e5%a4%b1'
+slug: '639851'
 title: 雅思写作（A类）：我的得与失
 wordpress_id: 639851
 categories:

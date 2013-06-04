@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-01-21 02:13:19+00:00
 layout: post
-slug: '%e8%af%84%e8%ae%ba%e9%97%ae%e9%a2%98%e5%b7%b2%e4%bf%ae%e6%ad%a3'
+slug: '639823'
 title: 评论问题已修正
 wordpress_id: 639823
 categories:

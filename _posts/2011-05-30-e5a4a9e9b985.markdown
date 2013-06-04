@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-05-30 04:48:04+00:00
 layout: post
-slug: '%e5%a4%a9%e9%b9%85'
+slug: '639922'
 title: 天鹅
 wordpress_id: 639922
 categories:

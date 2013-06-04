@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-06-14 10:01:03+00:00
 layout: post
-slug: teardrop
+slug: '639605'
 title: Teardrop
 wordpress_id: 639605
 categories:

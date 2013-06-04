@@ -3,7 +3,7 @@ author: Sophia
 comments: false
 date: 2009-02-23 13:18:47+00:00
 layout: post
-slug: '%e6%88%91%e7%9a%84%e6%a0%b9%e6%9c%ac%e5%8e%9f%e5%88%99'
+slug: '637277'
 title: 荒唐的现状&我的根本原则
 wordpress_id: 637277
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-03-31 13:01:03+00:00
 layout: post
-slug: '%e6%ac%a2%e5%91%bc%e5%90%a7%ef%bc%8c%e4%b8%89%e6%9c%88%e4%b8%89%e5%8d%81%e4%b8%80'
+slug: '638454'
 title: 欢呼吧，三月三十一
 wordpress_id: 638454
 categories:

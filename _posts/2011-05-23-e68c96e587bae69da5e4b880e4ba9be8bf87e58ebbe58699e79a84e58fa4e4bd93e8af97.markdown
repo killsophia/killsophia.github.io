@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-05-23 15:54:19+00:00
 layout: post
-slug: '%e6%8c%96%e5%87%ba%e6%9d%a5%e4%b8%80%e4%ba%9b%e8%bf%87%e5%8e%bb%e5%86%99%e7%9a%84%e5%8f%a4%e4%bd%93%e8%af%97'
+slug: '639912'
 title: 挖出来一些过去写的古体诗
 wordpress_id: 639912
 categories:

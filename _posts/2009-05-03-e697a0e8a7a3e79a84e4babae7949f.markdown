@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-03 04:44:05+00:00
 layout: post
-slug: '%e6%97%a0%e8%a7%a3%e7%9a%84%e4%ba%ba%e7%94%9f'
+slug: '639550'
 title: 无解的人生
 wordpress_id: 639550
 categories:

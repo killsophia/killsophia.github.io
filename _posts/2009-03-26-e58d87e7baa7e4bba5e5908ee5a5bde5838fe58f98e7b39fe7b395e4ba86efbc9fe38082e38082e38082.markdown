@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-03-26 05:31:34+00:00
 layout: post
-slug: '%e5%8d%87%e7%ba%a7%e4%bb%a5%e5%90%8e%e5%a5%bd%e5%83%8f%e5%8f%98%e7%b3%9f%e7%b3%95%e4%ba%86%ef%bc%9f%e3%80%82%e3%80%82%e3%80%82'
+slug: '638320'
 title: 升级以后好像变糟糕了？。。。
 wordpress_id: 638320
 categories:

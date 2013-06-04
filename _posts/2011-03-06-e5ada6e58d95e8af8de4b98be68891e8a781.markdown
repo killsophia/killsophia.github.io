@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-03-06 01:55:00+00:00
 layout: post
-slug: '%e5%ad%a6%e5%8d%95%e8%af%8d%e4%b9%8b%e6%88%91%e8%a7%81'
+slug: '639866'
 title: 学单词之我见
 wordpress_id: 639866
 categories:

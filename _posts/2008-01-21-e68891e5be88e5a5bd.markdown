@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-01-21 16:16:03+00:00
 layout: post
-slug: '%e6%88%91%e5%be%88%e5%a5%bd'
+slug: '622626'
 title: 我很好
 wordpress_id: 622626
 categories:

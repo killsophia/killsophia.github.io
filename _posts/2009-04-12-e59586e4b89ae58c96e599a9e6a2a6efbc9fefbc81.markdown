@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-12 00:27:00+00:00
 layout: post
-slug: '%e5%95%86%e4%b8%9a%e5%8c%96%e5%99%a9%e6%a2%a6%ef%bc%9f%ef%bc%81'
+slug: '638980'
 title: 商业化=噩梦？！
 wordpress_id: 638980
 categories:

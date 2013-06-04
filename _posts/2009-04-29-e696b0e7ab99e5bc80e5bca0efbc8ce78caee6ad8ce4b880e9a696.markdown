@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-29 12:47:24+00:00
 layout: post
-slug: '%e6%96%b0%e7%ab%99%e5%bc%80%e5%bc%a0%ef%bc%8c%e7%8c%ae%e6%ad%8c%e4%b8%80%e9%a6%96'
+slug: '639509'
 title: 新站开张，献歌一首
 wordpress_id: 639509
 categories:

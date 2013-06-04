@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-10-08 01:53:30+00:00
 layout: post
-slug: '%e4%ba%8e%e6%88%91%e8%80%8c%e8%a8%80%ef%bc%8c%e7%bd%91%e7%bb%9c%e6%98%af%e5%8f%a6%e4%b8%aa%e5%b1%82%e9%9d%a2%e4%b8%8a%e7%9a%84%e7%8e%b0%e5%ae%9e%e4%b8%96%e7%95%8c'
+slug: '639761'
 title: 于我而言，网络是另个层面上的现实世界
 wordpress_id: 639761
 categories:

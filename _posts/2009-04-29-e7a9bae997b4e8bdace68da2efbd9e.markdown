@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-29 08:51:00+00:00
 layout: post
-slug: '%e7%a9%ba%e9%97%b4%e8%bd%ac%e6%8d%a2%ef%bd%9e'
+slug: '639502'
 title: 空间转换～
 wordpress_id: 639502
 categories:

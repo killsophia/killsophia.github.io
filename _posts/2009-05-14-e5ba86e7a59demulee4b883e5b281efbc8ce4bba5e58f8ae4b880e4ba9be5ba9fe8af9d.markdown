@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-14 13:43:29+00:00
 layout: post
-slug: '%e5%ba%86%e7%a5%9demule%e4%b8%83%e5%b2%81%ef%bc%8c%e4%bb%a5%e5%8f%8a%e4%b8%80%e4%ba%9b%e5%ba%9f%e8%af%9d'
+slug: '639558'
 title: 庆祝emule七岁，以及一些废话
 wordpress_id: 639558
 categories:

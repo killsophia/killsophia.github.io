@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-12-03 14:12:56+00:00
 layout: post
-slug: '%e5%af%82%e5%af%9e%e8%ae%a9%e4%bd%a0%e6%9b%b4%e5%bf%ab%e4%b9%90%e7%ac%ac%e4%b8%80%e7%99%be%e7%af%87%e6%97%a5%e5%bf%97'
+slug: '639711'
 title: 寂寞让你更快乐&第一百篇日志
 wordpress_id: 639711
 categories:

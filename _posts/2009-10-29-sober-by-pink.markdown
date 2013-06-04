@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-10-29 09:04:01+00:00
 layout: post
-slug: sober-by-pink
+slug: '639657'
 title: Sober by Pink
 wordpress_id: 639657
 categories:

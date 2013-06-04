@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-02-23 01:58:26+00:00
 layout: post
-slug: '%e7%8b%97%e5%8f%94%e4%b8%8e%e6%92%b8%e6%a3%92%e6%80%a7%ef%bc%88%e4%b8%8e%e6%ad%aa%e6%a5%bc%ef%bc%89'
+slug: '639831'
 title: 狗叔与撸棒性（与歪楼）
 wordpress_id: 639831
 categories:

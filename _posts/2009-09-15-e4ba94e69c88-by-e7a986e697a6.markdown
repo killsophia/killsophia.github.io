@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-09-15 13:15:43+00:00
 layout: post
-slug: '%e4%ba%94%e6%9c%88-by-%e7%a9%86%e6%97%a6'
+slug: '639647'
 title: 五月 by 穆旦
 wordpress_id: 639647
 categories:

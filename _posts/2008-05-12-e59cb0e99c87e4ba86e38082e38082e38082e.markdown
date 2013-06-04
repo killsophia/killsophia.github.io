@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-05-12 08:30:21+00:00
 layout: post
-slug: '%e5%9c%b0%e9%9c%87%e4%ba%86%e3%80%82%e3%80%82%e3%80%82e'
+slug: '627977'
 title: 地震了。。。e
 wordpress_id: 627977
 categories:

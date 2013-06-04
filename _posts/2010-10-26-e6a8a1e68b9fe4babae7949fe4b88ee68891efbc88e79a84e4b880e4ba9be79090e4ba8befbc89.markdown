@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-10-26 01:27:40+00:00
 layout: post
-slug: '%e6%a8%a1%e6%8b%9f%e4%ba%ba%e7%94%9f%e4%b8%8e%e6%88%91%ef%bc%88%e7%9a%84%e4%b8%80%e4%ba%9b%e7%90%90%e4%ba%8b%ef%bc%89'
+slug: '639763'
 title: 模拟人生与我（的一些琐事）
 wordpress_id: 639763
 categories:

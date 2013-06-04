@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-07-18 05:40:36+00:00
 layout: post
-slug: '%e6%88%91%e4%b8%8d%e6%83%b3%e5%92%8c%e8%bf%99%e4%b8%aa%e4%b8%96%e7%95%8c%e8%af%b4%e8%af%9d'
+slug: '639937'
 title: 我不想和这个世界说话
 wordpress_id: 639937
 categories:

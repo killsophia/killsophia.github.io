@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2012-02-14 07:17:06+00:00
 layout: post
-slug: twenty-eleven-child-theme
+slug: '640099'
 title: Twenty Eleven Child Theme
 wordpress_id: 640099
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-12-16 23:29:16+00:00
 layout: post
-slug: '%e9%97%ad%e5%85%b3%e3%80%82%e3%80%82%e3%80%82'
+slug: '639717'
 title: 闭关。。。
 wordpress_id: 639717
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-05-15 06:36:31+00:00
 layout: post
-slug: 07%e5%b9%b4%e4%b9%90%e5%8d%95
+slug: '628104'
 title: 07年乐单
 wordpress_id: 628104
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-07-29 06:00:22+00:00
 layout: post
-slug: easymule%e7%a7%81%e6%9c%89%e5%8c%96%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%87%ba%e7%8e%b0%ef%bc%9f
+slug: '639621'
 title: EASYMULE私有化搜索网络出现？
 wordpress_id: 639621
 categories:

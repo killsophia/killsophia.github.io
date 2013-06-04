@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-01-13 16:35:24+00:00
 layout: post
-slug: '%e5%93%88%e5%a3%ab%e5%a5%87%e5%96%82%e5%85%bb%e7%9a%84%e4%b8%80%e4%ba%9b%e7%9f%a5%e8%af%86%ef%bc%88%ef%bd%9a%ef%bd%94%ef%bc%89'
+slug: '622351'
 title: 哈士奇喂养的一些知识（ｚｔ）
 wordpress_id: 622351
 categories:

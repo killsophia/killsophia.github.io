@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-25 16:54:40+00:00
 layout: post
-slug: '%e5%90%91%e7%9d%80%e9%9d%9e%e4%ba%ba%e7%b1%bb%e7%9a%84%e8%8c%83%e7%95%b4%e8%bf%9b%e5%8f%91'
+slug: '639493'
 title: 向着非人类的范畴进发
 wordpress_id: 639493
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-02 05:04:39+00:00
 layout: post
-slug: emule%e6%90%9c%e7%b4%a2%e5%bf%83%e5%be%97
+slug: '638548'
 title: Emule搜索心得
 wordpress_id: 638548
 categories:

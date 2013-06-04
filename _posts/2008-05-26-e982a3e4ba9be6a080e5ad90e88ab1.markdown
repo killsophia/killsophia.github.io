@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-05-26 00:35:57+00:00
 layout: post
-slug: '%e9%82%a3%e4%ba%9b%e6%a0%80%e5%ad%90%e8%8a%b1'
+slug: '628453'
 title: 那些栀子花
 wordpress_id: 628453
 categories:

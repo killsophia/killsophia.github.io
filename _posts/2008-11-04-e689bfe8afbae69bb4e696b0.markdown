@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-11-04 08:06:11+00:00
 layout: post
-slug: '%e6%89%bf%e8%af%ba%e6%9b%b4%e6%96%b0'
+slug: '633899'
 title: 承诺更新
 wordpress_id: 633899
 categories:

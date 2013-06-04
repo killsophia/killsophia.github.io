@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-05-15 01:41:12+00:00
 layout: post
-slug: '%e7%94%a8%e8%af%ad%e8%a8%80%e8%be%93%e5%85%a5%e6%9d%a5%e5%a4%87%e8%80%83%e9%9b%85%e6%80%9d%ef%bc%88%e5%8f%8a%e7%9b%b8%e5%85%b3%e8%b5%84%e6%96%99%e6%8e%a8%e8%8d%90%ef%bc%89'
+slug: '639847'
 title: 用语言输入来备考雅思（及相关资料推荐）
 wordpress_id: 639847
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-07-03 01:54:11+00:00
 layout: post
-slug: '%e6%b5%81%e6%b5%aa%e7%9a%84%e4%ba%ba'
+slug: '639754'
 title: 流浪的人
 wordpress_id: 639754
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-09-09 09:50:10+00:00
 layout: post
-slug: '%e9%a3%8e%e4%bb%8e%e8%ba%ab%e4%b8%8a%e5%90%b9%e8%bf%87'
+slug: '639643'
 title: 风从身上吹过
 wordpress_id: 639643
 categories:

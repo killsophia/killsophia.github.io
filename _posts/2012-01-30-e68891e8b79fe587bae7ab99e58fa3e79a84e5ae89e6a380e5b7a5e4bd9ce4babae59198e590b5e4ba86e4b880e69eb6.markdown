@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2012-01-30 06:21:57+00:00
 layout: post
-slug: '%e6%88%91%e8%b7%9f%e5%87%ba%e7%ab%99%e5%8f%a3%e7%9a%84%e5%ae%89%e6%a3%80%e5%b7%a5%e4%bd%9c%e4%ba%ba%e5%91%98%e5%90%b5%e4%ba%86%e4%b8%80%e6%9e%b6'
+slug: '640074'
 title: 我跟出站口的安检工作人员吵了一架
 wordpress_id: 640074
 categories:

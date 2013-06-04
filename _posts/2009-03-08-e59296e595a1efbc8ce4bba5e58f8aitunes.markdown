@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-03-08 09:14:43+00:00
 layout: post
-slug: '%e5%92%96%e5%95%a1%ef%bc%8c%e4%bb%a5%e5%8f%8aitunes'
+slug: '637642'
 title: 咖啡，以及itunes
 wordpress_id: 637642
 categories:

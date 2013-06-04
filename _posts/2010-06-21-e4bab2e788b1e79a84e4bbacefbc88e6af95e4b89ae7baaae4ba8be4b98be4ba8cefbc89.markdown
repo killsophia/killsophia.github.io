@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-06-21 14:49:19+00:00
 layout: post
-slug: '%e4%ba%b2%e7%88%b1%e7%9a%84%e4%bb%ac%ef%bc%88%e6%af%95%e4%b8%9a%e7%ba%aa%e4%ba%8b%e4%b9%8b%e4%ba%8c%ef%bc%89'
+slug: '639748'
 title: 亲爱的们（毕业纪事之二）
 wordpress_id: 639748
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-10-12 15:23:36+00:00
 layout: post
-slug: '%e5%bf%b5%e6%97%a7%e7%9a%84%e4%ba%ba'
+slug: '639652'
 title: 念旧的人
 wordpress_id: 639652
 categories:

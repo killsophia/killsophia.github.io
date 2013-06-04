@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-13 03:18:09+00:00
 layout: post
-slug: hard-candy
+slug: '639011'
 title: Hard Candy
 wordpress_id: 639011
 categories:

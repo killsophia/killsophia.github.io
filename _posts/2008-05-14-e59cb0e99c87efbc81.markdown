@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-05-14 14:13:25+00:00
 layout: post
-slug: '%e5%9c%b0%e9%9c%87%ef%bc%81'
+slug: '628070'
 title: 地震！
 wordpress_id: 628070
 categories:

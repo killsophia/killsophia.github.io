@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-05-23 16:03:57+00:00
 layout: post
-slug: '%e5%8f%88%e6%98%af%e5%ad%98%e6%a1%a3%e2%80%94%e2%80%94%e7%83%ad%e6%b2%b3%e6%97%a7%e6%a2%a6'
+slug: '639918'
 title: 又是存档——热河旧梦
 wordpress_id: 639918
 categories:

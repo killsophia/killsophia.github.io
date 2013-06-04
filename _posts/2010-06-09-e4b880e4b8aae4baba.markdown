@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-06-09 01:05:48+00:00
 layout: post
-slug: '%e4%b8%80%e4%b8%aa%e4%ba%ba'
+slug: '639746'
 title: 一个人
 wordpress_id: 639746
 categories:

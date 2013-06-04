@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-03-10 01:36:42+00:00
 layout: post
-slug: '%e9%9b%85%e6%80%9d%e8%80%83%e8%af%95%e7%8e%b0%e5%9c%ba%e6%8b%be%e9%81%97'
+slug: '639855'
 title: 雅思考试现场拾遗
 wordpress_id: 639855
 categories:

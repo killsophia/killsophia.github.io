@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-01-22 14:46:42+00:00
 layout: post
-slug: '%e5%be%88%e5%a5%bd%e5%be%88%e5%bc%ba%e5%a4%a7%e7%9a%84%e5%b9%bf%e9%93%81%e9%9b%86%e5%9b%a2'
+slug: '622831'
 title: 很好很强大的广铁集团
 wordpress_id: 622831
 categories:

@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-03 03:56:46+00:00
 layout: post
-slug: '%e6%88%91%e7%9a%84ed2k%e4%b9%8b%e8%b7%af%ef%bc%8c%e8%bf%87%e5%8e%bb%ef%bc%8c%e7%8e%b0%e5%9c%a8%ef%bc%8c%e6%9c%aa%e6%9d%a5'
+slug: '638563'
 title: 我的ED2K之路，过去，现在，未来
 wordpress_id: 638563
 categories:

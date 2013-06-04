@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-09-30 02:00:45+00:00
 layout: post
-slug: the-closest-thing-to-crazy-by-katie-melua
+slug: '632742'
 title: The Closest Thing to Crazy by Katie Melua
 wordpress_id: 632742
 categories:

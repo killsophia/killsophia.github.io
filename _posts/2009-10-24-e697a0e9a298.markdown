@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-10-24 16:31:12+00:00
 layout: post
-slug: '%e6%97%a0%e9%a2%98'
+slug: '639655'
 title: 无题
 wordpress_id: 639655
 categories:

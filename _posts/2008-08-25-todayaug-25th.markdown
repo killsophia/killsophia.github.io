@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-08-25 15:16:01+00:00
 layout: post
-slug: todayaug-25th
+slug: '631581'
 title: Today,Aug 25th
 wordpress_id: 631581
 categories:

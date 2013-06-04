@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-04-05 00:07:20+00:00
 layout: post
-slug: '%e5%9d%90%e5%9b%b0%e6%84%81%e5%9f%8e%e7%99%be%e5%8d%83%e7%bb%93'
+slug: '639739'
 title: 坐困愁城百千结
 wordpress_id: 639739
 categories:

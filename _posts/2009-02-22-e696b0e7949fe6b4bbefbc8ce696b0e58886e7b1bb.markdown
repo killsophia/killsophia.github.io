@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-02-22 04:07:55+00:00
 layout: post
-slug: '%e6%96%b0%e7%94%9f%e6%b4%bb%ef%bc%8c%e6%96%b0%e5%88%86%e7%b1%bb'
+slug: '637258'
 title: 新生活，新分类
 wordpress_id: 637258
 categories:

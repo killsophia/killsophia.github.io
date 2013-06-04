@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-08-31 03:40:39+00:00
 layout: post
-slug: '%e4%b8%83%e5%a4%9c%e4%b9%8b%e9%9b%aa'
+slug: '631716'
 title: 七夜之雪
 wordpress_id: 631716
 categories:

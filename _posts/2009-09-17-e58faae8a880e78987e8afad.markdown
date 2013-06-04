@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-09-17 07:26:52+00:00
 layout: post
-slug: '%e5%8f%aa%e8%a8%80%e7%89%87%e8%af%ad'
+slug: '639650'
 title: 只言片语
 wordpress_id: 639650
 categories:

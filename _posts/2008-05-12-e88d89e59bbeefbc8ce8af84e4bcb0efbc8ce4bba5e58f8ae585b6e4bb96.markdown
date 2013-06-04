@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-05-12 03:35:31+00:00
 layout: post
-slug: '%e8%8d%89%e5%9b%be%ef%bc%8c%e8%af%84%e4%bc%b0%ef%bc%8c%e4%bb%a5%e5%8f%8a%e5%85%b6%e4%bb%96'
+slug: '627972'
 title: 草图，评估，以及其他
 wordpress_id: 627972
 categories:

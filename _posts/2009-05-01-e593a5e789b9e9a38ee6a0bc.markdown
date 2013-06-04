@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-01 14:23:09+00:00
 layout: post
-slug: '%e5%93%a5%e7%89%b9%e9%a3%8e%e6%a0%bc'
+slug: '639543'
 title: 哥特风格
 wordpress_id: 639543
 categories:

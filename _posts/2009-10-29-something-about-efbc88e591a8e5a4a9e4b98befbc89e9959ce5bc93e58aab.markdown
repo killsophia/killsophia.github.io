@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-10-29 14:11:49+00:00
 layout: post
-slug: something-about-%ef%bc%88%e5%91%a8%e5%a4%a9%e4%b9%8b%ef%bc%89%e9%95%9c%e5%bc%93%e5%8a%ab
+slug: '639662'
 title: something about （周天之）镜弓劫
 wordpress_id: 639662
 categories:

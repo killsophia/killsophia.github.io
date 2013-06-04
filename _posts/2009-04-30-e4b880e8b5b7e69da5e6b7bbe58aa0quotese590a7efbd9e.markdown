@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-04-30 02:23:49+00:00
 layout: post
-slug: '%e4%b8%80%e8%b5%b7%e6%9d%a5%e6%b7%bb%e5%8a%a0quotes%e5%90%a7%ef%bd%9e'
+slug: '639520'
 title: 一起来添加Quotes吧～
 wordpress_id: 639520
 categories:

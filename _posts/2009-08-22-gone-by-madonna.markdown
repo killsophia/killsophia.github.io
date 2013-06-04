@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-08-22 08:50:58+00:00
 layout: post
-slug: gone-by-madonna
+slug: '639640'
 title: Gone by Madonna
 wordpress_id: 639640
 categories:

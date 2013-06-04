@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-05-26 05:11:26+00:00
 layout: post
-slug: bones%e8%af%86%e9%aa%a8%e5%af%bb%e8%b8%aa-1-4%e5%ad%a3-%e7%ae%80%e8%af%84
+slug: '639584'
 title: Bones识骨寻踪 1-4季 简评
 wordpress_id: 639584
 categories:

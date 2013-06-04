@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-11-24 07:19:36+00:00
 layout: post
-slug: '%e9%a3%9f%e7%89%a9%e4%b8%ad%e6%af%92%e3%80%82%e3%80%82%e3%80%82'
+slug: '639701'
 title: 食物中毒。。。
 wordpress_id: 639701
 categories:

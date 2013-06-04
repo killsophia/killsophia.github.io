@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-03-11 13:41:54+00:00
 layout: post
-slug: '%e8%bf%91%e6%9c%9f%e6%81%a2%e5%a4%8d%e6%9b%b4%e6%96%b0'
+slug: '639731'
 title: 近期恢复更新
 wordpress_id: 639731
 categories:

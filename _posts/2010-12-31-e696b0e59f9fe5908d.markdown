@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-12-31 10:26:23+00:00
 layout: post
-slug: '%e6%96%b0%e5%9f%9f%e5%90%8d'
+slug: '639792'
 title: 新域名
 wordpress_id: 639792
 categories:

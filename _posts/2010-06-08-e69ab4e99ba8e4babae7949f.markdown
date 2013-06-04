@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-06-08 08:30:14+00:00
 layout: post
-slug: '%e6%9a%b4%e9%9b%a8%e4%ba%ba%e7%94%9f'
+slug: '639745'
 title: 暴雨人生
 wordpress_id: 639745
 categories:

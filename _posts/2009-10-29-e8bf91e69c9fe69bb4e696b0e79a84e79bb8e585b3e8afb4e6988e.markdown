@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2009-10-29 09:06:28+00:00
 layout: post
-slug: '%e8%bf%91%e6%9c%9f%e6%9b%b4%e6%96%b0%e7%9a%84%e7%9b%b8%e5%85%b3%e8%af%b4%e6%98%8e'
+slug: '639660'
 title: 近期更新的相关说明
 wordpress_id: 639660
 categories:

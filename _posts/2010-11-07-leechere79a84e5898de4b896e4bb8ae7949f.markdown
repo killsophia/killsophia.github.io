@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-11-07 04:56:46+00:00
 layout: post
-slug: leecher%e7%9a%84%e5%89%8d%e4%b8%96%e4%bb%8a%e7%94%9f
+slug: '639766'
 title: leecher的前世今生
 wordpress_id: 639766
 categories:

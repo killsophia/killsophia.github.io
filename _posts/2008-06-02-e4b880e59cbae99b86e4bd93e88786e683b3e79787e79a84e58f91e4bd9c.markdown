@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2008-06-02 02:33:12+00:00
 layout: post
-slug: '%e4%b8%80%e5%9c%ba%e9%9b%86%e4%bd%93%e8%87%86%e6%83%b3%e7%97%87%e7%9a%84%e5%8f%91%e4%bd%9c'
+slug: '628631'
 title: 一场集体臆想症的发作
 wordpress_id: 628631
 categories:

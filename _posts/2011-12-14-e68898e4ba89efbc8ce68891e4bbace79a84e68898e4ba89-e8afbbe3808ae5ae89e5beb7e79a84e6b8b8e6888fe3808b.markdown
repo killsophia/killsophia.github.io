@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2011-12-14 03:45:43+00:00
 layout: post
-slug: '%e6%88%98%e4%ba%89%ef%bc%8c%e6%88%91%e4%bb%ac%e7%9a%84%e6%88%98%e4%ba%89-%e8%af%bb%e3%80%8a%e5%ae%89%e5%be%b7%e7%9a%84%e6%b8%b8%e6%88%8f%e3%80%8b'
+slug: '639976'
 title: 战争，我们的战争——读《安德的游戏》
 wordpress_id: 639976
 categories:

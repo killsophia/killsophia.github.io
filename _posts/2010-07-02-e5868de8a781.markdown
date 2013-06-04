@@ -3,7 +3,7 @@ author: Sophia
 comments: true
 date: 2010-07-02 13:56:40+00:00
 layout: post
-slug: '%e5%86%8d%e8%a7%81'
+slug: '639752'
 title: 再见
 wordpress_id: 639752
 categories:
