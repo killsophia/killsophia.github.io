@@ -1,5 +1,5 @@
 ---
-author: archisophialee
+author: Sophia
 comments: false
 date: 2008-09-17 22:47:22+00:00
 layout: post
