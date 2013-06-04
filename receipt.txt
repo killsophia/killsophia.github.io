@@ -1,8 +1,0 @@
-CREATE TABLE `YY_RecordGrouponReceipt` (
-  `receipt_id` int(11) NOT NULL COMMENT '团购券号',
-  `updated_time` datetime DEFAULT NULL,
-  `update_by` varchar(50) DEFAULT NULL,
-  `created_time` datetime NOT NULL,
-  `created_by` varchar(50) NOT NULL DEFAULT '',
-  `record_id` int(11) NOT NULL COMMENT '订单号'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
