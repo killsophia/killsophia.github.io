@@ -1,0 +1,19 @@
+---
+author: archisophialee
+comments: true
+date: 2009-04-30 02:23:49+00:00
+layout: post
+slug: '%e4%b8%80%e8%b5%b7%e6%9d%a5%e6%b7%bb%e5%8a%a0quotes%e5%90%a7%ef%bd%9e'
+title: 一起来添加Quotes吧～
+wordpress_id: 639520
+categories:
+- Blog
+post_format:
+- 日志
+tags:
+- quotes
+---
+
+新加入Random Quotes～请朋友们和我一起来添加你喜欢的quotes吧～写在这篇文章的评论里就好～
+
+别忘了写上作者、来源和标签噢～

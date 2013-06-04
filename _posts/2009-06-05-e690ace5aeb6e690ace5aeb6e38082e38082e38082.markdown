@@ -1,0 +1,23 @@
+---
+author: archisophialee
+comments: true
+date: 2009-06-05 04:28:56+00:00
+layout: post
+slug: '%e6%90%ac%e5%ae%b6%e6%90%ac%e5%ae%b6%e3%80%82%e3%80%82%e3%80%82'
+title: 搬家搬家。。。
+wordpress_id: 639594
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+只是换个ip而已恩恩
+
+现在升级插件终于不用输密码了，幸福啊。。。
+
+但是我没找到访问日志。。。
+
+这叫做什么呢。。。折腾？恩恩
+
+一开始给了我个1G的空间，小小兴奋了下。。。然后果然只是美丽的错误啊

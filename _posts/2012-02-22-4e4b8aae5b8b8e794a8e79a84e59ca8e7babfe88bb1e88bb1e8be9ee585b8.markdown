@@ -1,0 +1,85 @@
+---
+author: archisophialee
+comments: true
+date: 2012-02-22 07:56:34+00:00
+layout: post
+slug: 4%e4%b8%aa%e5%b8%b8%e7%94%a8%e7%9a%84%e5%9c%a8%e7%ba%bf%e8%8b%b1%e8%8b%b1%e8%be%9e%e5%85%b8
+title: 4个常用的在线英英辞典
+wordpress_id: 640107
+categories:
+- Learn English
+---
+
+前几天发在 google plus 上的。
+欢迎移步前往 http://plus.google.com/113446189830812095621/posts/MgeVTsKhpcT 讨论。
+
+1 http://dictionary.cambridge.org/
+对应辞典：Cambridge Dictionary
+短语：有
+习语：有
+发音：有区分英美发音：有
+区分英美用法：有
+例句：有（不含出处）
+释义：一般
+语法（如不规则动词、及物、可数等）：有
+同义词：有
+反义词：无
+相关词汇：有
+词源：无
+多语翻译：仅西班牙语和土耳其语
+Mobile Apps：有
+特色： Visual Thesaurus, Topic Words
+
+2 http://www.ldoceonline.com
+对应辞典：LDOCE
+短语：有
+习语：有
+发音：仅部分 （包括英音、美音、例句发音）
+区分英美发音：有
+区分英美用法：有
+例句：有（不含出处）
+释义：较全
+语法（如不规则动词、及物、可数等）：有
+同义词：无
+反义词：无
+相关词汇：有
+词源：无
+多语翻译：无
+Mobile Apps：有特色：词汇常用程度分级，Topic Dictionary, Dictionary picture of the day
+
+3 http://www.merriam-webster.com/dictionary/
+对应辞典： Merriam-Webster
+短语：有
+习语：有
+发音：有
+区分英美发音：有
+区分英美用法：有
+例句：有（不含出处）
+释义：较全
+语法（如不规则动词、及物、可数等）：有
+同义词：有
+反义词：有
+相关词汇：有
+词源：有
+多语翻译：仅西班牙语
+Mobile Apps：有
+特色：押韵词汇，Thesaurus
+
+4 http://www.collinsdictionary.com/dictionary/english
+对应辞典： Collins
+短语：有
+习语：有
+发音：有
+区分英美发音：仅英音
+区分英美用法：有
+例句：有（含出处）
+释义：较全
+语法（如不规则动词、及物、可数等）：有
+同义词：有
+反义词：无
+相关词汇：无
+词源：无
+多语翻译：有
+Mobile Apps：有
+特色：词汇常用程度分级，词性变化，Thesaurus
+

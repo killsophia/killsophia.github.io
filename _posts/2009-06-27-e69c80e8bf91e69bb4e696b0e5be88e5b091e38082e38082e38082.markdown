@@ -1,0 +1,15 @@
+---
+author: archisophialee
+comments: true
+date: 2009-06-27 13:34:49+00:00
+layout: post
+slug: '%e6%9c%80%e8%bf%91%e6%9b%b4%e6%96%b0%e5%be%88%e5%b0%91%e3%80%82%e3%80%82%e3%80%82'
+title: 最近更新很少。。。
+wordpress_id: 639609
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+网络问题 :( ，解决以前更新的量会很少。预计最晚8月份恢复正常。 :grin:

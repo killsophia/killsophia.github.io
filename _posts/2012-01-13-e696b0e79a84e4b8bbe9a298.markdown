@@ -1,0 +1,17 @@
+---
+author: archisophialee
+comments: true
+date: 2012-01-13 06:22:22+00:00
+layout: post
+slug: '%e6%96%b0%e7%9a%84%e4%b8%bb%e9%a2%98'
+title: 新的主题
+wordpress_id: 640069
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+返璞归真的新主题，2011的官方主题……
+
+照这个趋势总有一天我会换成静态 blog 的吧……

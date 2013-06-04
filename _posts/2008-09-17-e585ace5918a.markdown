@@ -1,0 +1,15 @@
+---
+author: archisophialee
+comments: false
+date: 2008-09-17 22:47:22+00:00
+layout: post
+slug: '%e5%85%ac%e5%91%8a'
+title: 公告
+wordpress_id: 632410
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+新学期，新模板，新内容~欢迎订阅我的RSS~~ :twisted: 

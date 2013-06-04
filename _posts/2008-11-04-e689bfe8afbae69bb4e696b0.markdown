@@ -1,0 +1,15 @@
+---
+author: archisophialee
+comments: true
+date: 2008-11-04 08:06:11+00:00
+layout: post
+slug: '%e6%89%bf%e8%af%ba%e6%9b%b4%e6%96%b0'
+title: 承诺更新
+wordpress_id: 633899
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+好吧，既然被批评了没有按时更新也没什么值得看的内容，那么在此承诺每周至少更新三篇日志 8) 感谢关注~ ;) 

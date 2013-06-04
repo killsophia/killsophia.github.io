@@ -1,0 +1,14 @@
+---
+author: archisophialee
+comments: true
+date: 2007-07-03 02:05:57+00:00
+layout: post
+published: false
+slug: '%e5%85%b3%e4%ba%8e'
+title: 关于
+wordpress_id: 205093
+categories:
+- 未分类
+---
+
+这是一个 WordPress 页面范例，您可以编辑本页面并增加您或者网站的信息，这样访问者便可知道您来自何方。您可以创建类似本页面的任意多的页面或者子页面，并通过 WordPress 来管理。

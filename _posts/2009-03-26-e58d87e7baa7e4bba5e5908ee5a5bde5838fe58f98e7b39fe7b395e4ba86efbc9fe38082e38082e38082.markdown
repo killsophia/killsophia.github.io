@@ -1,0 +1,65 @@
+---
+author: archisophialee
+comments: true
+date: 2009-03-26 05:31:34+00:00
+layout: post
+slug: '%e5%8d%87%e7%ba%a7%e4%bb%a5%e5%90%8e%e5%a5%bd%e5%83%8f%e5%8f%98%e7%b3%9f%e7%b3%95%e4%ba%86%ef%bc%9f%e3%80%82%e3%80%82%e3%80%82'
+title: 升级以后好像变糟糕了？。。。
+wordpress_id: 638320
+categories:
+- 电脑/数码/网事
+tags:
+- livewriter
+---
+
+## 本以为升级是件好事，可是好像变得更糟了。。。
+
+ 
+
+  
+  *     
+
+**一些插件不能用了，比如coolplay，结果我的音乐日志看起来都很奇怪。最近听了很多音乐啊，我要发啊。。。天啊地啊，神啊鬼啊。。。**
+
+  
+   
+  *     
+
+**后台打开得好慢。我还装了gear的说。（幸好发现了livewriter，不然我又要崩溃了。。。曾经因为某blog速度太慢放弃之）**
+
+  
+   
+  *     
+
+**然后我始终不明白为什么侧栏的fanfou和jiwai插件总是很神奇。。。还有mp3播放器，现在很无语，已经不用了。。。他们的问题是同样的，会把下面的侧边栏顶出去。应该是某个设置不对，但是不知道是什么。。。也可能是这个模板的原因？。。。或者我应该吧fanfou插件直接加到侧栏模板？。。。不清楚，留待试验。**
+
+  
+   
+  *     
+
+**就在我用livewriter写完这篇准备发布的时候。。。发现后台又挂了。。。晕**
+
+  
+ 
+
+_就是不知道如果现在换成k2模板会怎样。不过最近忙，没时间折腾了。第一次装k2模班的时候我直接来了个通宵。最重要的是帮助文档和支持论坛是英文的。。。我的英文在这方面可不怎么强大。而且k2不能私有化，有些设置就不好修改了。就暂时这样吧，目前这个主题比较和我的口味，清爽得很。_
+
+ 
+
+等待吧，等待更新和变化，希望有一天恢复正常。
+
+ 
+
+ps昨天晚上我做了个梦，梦见xt7.2出来鸟。
+
+ 
+
+ps2深渊传说终于就要完结了。天啊。Mieu真的好可爱。下次发堆截图来。
+
+ 
+
+ps3忍不住了，先来几张。livewriter插图不错。
+
+ 
+
+[![[SumiSora][Tales_of_the_Abyss][07][GB][RV10][21-16-40]](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10211640-thumb.jpg)](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10211640.jpg) [![[SumiSora][Tales_of_the_Abyss][05][GB][RV10][14-34-04]](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss05gbrv10143404-thumb.jpg)](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss05gbrv10143404.jpg) [![[SumiSora][Tales_of_the_Abyss][06][GB][RV10][22-54-54]](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss06gbrv10225454-thumb.jpg)](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss06gbrv10225454.jpg) [![[SumiSora][Tales_of_the_Abyss][07][GB][RV10][19-06-25]](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10190625-thumb.jpg)](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10190625.jpg) [![[SumiSora][Tales_of_the_Abyss][07][GB][RV10][21-16-14]](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10211614-thumb.jpg)](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10211614.jpg) [![[SumiSora][Tales_of_the_Abyss][07][GB][RV10][21-16-23]](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10211623-thumb.jpg)](http://archiheart.yo2.cn/wp-content/uploads/71/7150/2009/03/sumisoratales-of-the-abyss07gbrv10211623.jpg)

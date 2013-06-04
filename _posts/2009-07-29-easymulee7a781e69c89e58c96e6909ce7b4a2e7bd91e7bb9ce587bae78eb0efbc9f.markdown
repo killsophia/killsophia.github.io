@@ -1,0 +1,78 @@
+---
+author: archisophialee
+comments: true
+date: 2009-07-29 06:00:22+00:00
+layout: post
+slug: easymule%e7%a7%81%e6%9c%89%e5%8c%96%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%87%ba%e7%8e%b0%ef%bc%9f
+title: EASYMULE私有化搜索网络出现？
+wordpress_id: 639621
+categories:
+- 电脑/数码/网事
+tags:
+- easymule
+- emule
+- verycd
+- 电骡
+---
+
+话说不看不知道，一看吓一跳。在骡友的一片痛骂与质疑声中依然故我的EASYMULE，突然间又有了新动作。
+[[新功能]新增资源发布功能](http://www.VeryCD.com/groups/easyMule2/721051.topic)
+[ [新功能]新增“电驴文件搜索”功能，更快、更准、更方便](http://www.verycd.com/groups/eMuleBeta/721158.topic)
+联想到之前easymule因为阉割掉众多常用功能（如好友、搜索等）而被骡友戏称为“阉割骡”，以及明目张胆将easymule中文名写作“电驴”，不禁疑惑：这次的动作，究竟是向正规MOD示好靠拢，还是糊弄天朝相关部门的鬼把戏，抑或一场昭示着VeryCD的easymule已经彻底走上了私有化不归路的闹剧呢？
+鲁迅先生说，“我向来是不惮以最坏的恶意，来推测中国人的”。事到如今，本人也不得不用最坏的恶意来研究下VC的这个新动作了。easymule的前因后果不再赘述，有心人士不妨至[emule-fans上的相关介绍](http://emule-fans.com/category/news/emule/verycd/)一游，或者与骡友们交流一下。
+那么，从头开始吧。
+最先让我产生疑惑的是此图。
+
+[caption id="attachment_639623" align="alignnone" width="600" caption="easymule搜索途径"][![easymule搜索途径](http://archiheart.info/wp-content/uploads/2009/07/thumb.jpg)](http://archiheart.info/wp-content/uploads/2009/07/thumb.jpg)[/caption]
+
+在搜索途径中，除了全局和KAD，悍然出现了“电驴”。且不说此“电驴“事实上并非骡友们熟知的edonkey而是verycd为easymule注册的商标，就看看这个”电驴“究竟何方神圣，verycd此次动作的用心便昭然若揭了。
+
+首先来对比下官版emule的搜索卡。（下图为官方截图，网址[http://www.emule-project.net/home/screenshots/search.png](http://www.emule-project.net/home/screenshots/search.png)）
+
+[caption id="attachment_639624" align="alignnone" width="512" caption="官版emule搜索卡"][![官版emule搜索卡](http://archiheart.info/wp-content/uploads/2009/07/search.png)](http://archiheart.info/wp-content/uploads/2009/07/search.png)[/caption]
+
+从本人电脑上的Xtreme来看，其中的method下包含自动、服务器、全局、KAD和fileDonkey五项，丝毫不见这个所谓的”电驴“的踪影。
+
+[caption id="attachment_639625" align="alignnone" width="394" caption="Xtreme搜索途径（与官版相同）"][![Xtreme搜索途径（与官版相同）](http://archiheart.info/wp-content/uploads/2009/07/searchmethod1.jpg)](http://archiheart.info/wp-content/uploads/2009/07/searchmethod1.jpg)[/caption]
+
+也许有人要问，filedonkey是什么呢？所谓无图无真相，截图为证。
+
+[caption id="attachment_639628" align="alignnone" width="512" caption="filedonke跳转到浏览器中的页面"][![filedonke跳转到浏览器中的页面](http://archiheart.info/wp-content/uploads/2009/07/searchdonkey1.jpg)](http://archiheart.info/wp-content/uploads/2009/07/searchdonkey1.jpg)[/caption]
+（关于filedonkey的详情，请看[http://www.ied2k.com/forum/topic-5435.html](http://www.ied2k.com/forum/topic-5435.html)）
+
+由此可见，这个“电驴”是完全独立于官版emule和其他mod的存在。根据verycd所言（[http://www.verycd.com/groups/eMuleBeta/721158.topic](http://www.verycd.com/groups/eMuleBeta/721158.topic)）
+
+
+> 搜索来自VeryCD网站和驴友个人通过电驴软件发布（2.0新功能）的资源。相比前两种搜索方式，文件搜索 更快、更准、更方便
+
+
+那么何为“个人通过电驴软件发布的资源”呢？
+根据verycd所言[http://www.VeryCD.com/groups/easyMule2/721051.topic](http://www.VeryCD.com/groups/easyMule2/721051.topic)
+
+
+> 现在你可以通过这个链接把你的资源发布到 VeryCD文件库
+
+
+很显然，官版emule和其他mod对这个“verycd文件库”的数据都是没有接入手段的，而本人相信，verycd也是不愿意将接入手段提供给众骡友的。这是一种私有化，这个话题，后面再谈。
+<!-- more -->
+通常来说，emule的搜索依赖于ed2k和kad，而不是某个网站的“文件库”。本人屡次说到，emule之所以存活至今，熬过了一波又一波反p2p的浪潮，与其不依赖任何服务器的特性密不可分。如今，verycd除了依赖其nat服务器的low2low，又搞出来个依赖其数据库的“电驴搜索”，联想到一直以来verycdmod具有天朝特色的关键词过滤，不禁怀疑：现在天朝只是抓“低俗”，倘若有一天天朝也抓p2p呢，这个储存了大量的ed2k文件信息的数据库一旦被相关部门要求上缴，verycd是不是要把掌握的大量信息和数据，拱手相让？试想，作为商业公司的verycd岂敢反抗国家机器？到时候，骡友们的隐私和权益，谁来保护？而根据骡友目前的猜测，verycd的这个“文件库”应该会记录easymule客户端的所有文件数据，至于是否会间接影响其他mod使用者还是个未知数。一思及此，不寒而栗。
+
+抛开数据库本身不谈，下面说说这个“电驴搜索”。
+一个以verycd自己的mod，接入verycd自己的文件库的搜索方式，到底意味着什么？
+verycd的这个“文件库”，是怎么产生的呢？除了在verycd网站发布的资源，就是easymule用户“发布”的资源了。（说到这里不得不谴责一下，如此的措辞似乎是意图让人相信，如果想要自己的文件在ed2k网络流传必须在verycd“发布”，反之亦然）。
+而同时，想要在这个文件库发表文件，则必须登录verycd网站的帐号。（[http://www.VeryCD.com/groups/easyMule2/721051.topic](http://www.VeryCD.com/groups/easyMule2/721051.topic)）
+
+
+
+
+> 如果你先前没有在IE浏览器中登录，那么发布资源时会要求你使用VeryCD注册账号进行登录。
+注意：只有铜光盘及以上用户才能发布资源。
+
+
+
+其他mod无法接入、却与verycd网站帐号密切联系的ed2k文件信息库，除掉个人隐私问题外，联想到迅雷的私有网络，再联想到verycd与xl相勾结这一不争的事实，不禁怀疑，verycd也要走xl的老路，搞一个私有网络了。
+虽然其他emule客户端依旧可以获取easymule客户端的共享文件，但是不能直接访问存在于一个标榜自己为ed2k文件库的数据，岂非笑话？
+一个p2p网络，从外界（正常的ed2k网络）获取了数据，却只在该网络内部流通，这是严重违反ed2k共享精神的。如果这种类型的私有网络不断壮大，将会直接扰乱整个ed2k乃至p2p世界的根本秩序，甚至可能引起ed2k网络的倒下。
+过去，我们尚可以称verycd的社区加分为“社区行为”，而如今，看看easymule的私有化搜索，verycd已经在与emule相悖的道路上愈行愈远了。
+纵观easymule的发展过程，与被骡友唾弃的迅雷low2low已经是旧事，借着搜索“文件库”意图搞私有网络才是新闻啊。
+随时关注事件最新进展。

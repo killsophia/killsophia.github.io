@@ -1,0 +1,15 @@
+---
+author: archisophialee
+comments: true
+date: 2009-07-12 14:44:16+00:00
+layout: post
+slug: 2-8-1%e6%9d%a5%e5%95%a6%ef%bd%9e
+title: 2.8.1来啦～
+wordpress_id: 639616
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+2.8.1了，貌似不错。暂停更新一周左右。。。ps网络状况很乐观

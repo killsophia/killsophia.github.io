@@ -1,0 +1,19 @@
+---
+author: archisophialee
+comments: true
+date: 2010-03-15 02:46:32+00:00
+layout: post
+slug: '%e6%96%b0%e7%9a%84logo'
+title: 新的logo
+wordpress_id: 639736
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+既然更换了这个全能型的主题，那么当然也要顺便换一下logo了～～
+
+模板是主题自带的，但是调整大小和位置费了点时间，好半天才明白是怎么回事。。。
+
+嘻嘻，新的logo来了～～

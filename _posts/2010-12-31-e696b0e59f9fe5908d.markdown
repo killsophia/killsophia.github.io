@@ -1,0 +1,15 @@
+---
+author: archisophialee
+comments: true
+date: 2010-12-31 10:26:23+00:00
+layout: post
+slug: '%e6%96%b0%e5%9f%9f%e5%90%8d'
+title: 新域名
+wordpress_id: 639792
+categories:
+- Blog
+post_format:
+- 日志
+---
+
+由于tk域名被意外取消，2010年的最后一天，本博客已经启用了新域名。 http://archiheart.info 。建筑我心欢迎您。
