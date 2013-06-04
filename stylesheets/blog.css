@@ -21,7 +21,7 @@ body{
 
 
 small {
-	font-size: 15px;
+	font-size: 24px;
 	color: rgba(240,240,240,0.94);
 	margin-left: 20px;
 	
@@ -29,7 +29,7 @@ small {
 
 .title {
 	margin: 0px;
-	font-size: 25px;
+	font-size: 40px;
 	color: rgba(240,240,240,0.94);
 }
 
