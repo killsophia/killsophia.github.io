@@ -1,6 +1,7 @@
 ---
 author: Sophia
 comments: true
+date: 2013-06-04 21:11:12+10:00
 layout: post
 slug: 'memorable-day'
 title: 值得纪念的日子

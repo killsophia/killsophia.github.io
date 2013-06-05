@@ -1,6 +1,7 @@
 ---
 author: Sophia
 comments: true
+date: 2013-06-04 15:15:19+10:00
 layout: post
 slug: 'thank-you-fuluchii'
 title: Thank You 钱满！
