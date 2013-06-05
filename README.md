@@ -1,4 +1,4 @@
 killsophia.github.io
 ====================
 
-My personal blog. Using github pages. Theme bt Fuluchii.
+My personal blog. Using github pages. Original Theme by Fuluchii.
