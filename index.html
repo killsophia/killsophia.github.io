@@ -14,23 +14,18 @@ title: index
 {% endfor %}
 
 <!-- Pagination links -->
-<div id="post-pagination" class="pagination">
+<div class="pagination">
   {% if paginator.previous_page %}
-    <p class="previous">
-      {% if paginator.previous_page == 1 %}
-        <a href="/">Previous</a>
-      {% else %}
-        <a href="{{ paginator.previous_page_path }}">Previous</a>
-      {% endif %}
-    </p>
+    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
 
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
   {% if paginator.next_page %}
     <a href="/page{{ paginator.next_page }}" class="next">Next</a>
   {% else %}
-    <p class="next disabled">
-      <span>Next</span>
-    </p>
+    <span class="next ">Next</span>
   {% endif %}
 </div>
