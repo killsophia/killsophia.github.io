@@ -4,10 +4,10 @@ title: index
 ---
 
 <div class='post'>
-	    {% for post in site.posts %}
-      {% include post.html %}
+<ul>
+     {% for post in site.posts %}
+      <li class="ptitle">
+      <span class="date">{{ post.date | date_to_string }}</span> &raquo; <a class="postname" href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-
-  
-
+</ul>
 </div>
