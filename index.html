@@ -23,19 +23,14 @@ title: index
         <a href="{{ paginator.previous_page_path }}">Previous</a>
       {% endif %}
     </p>
-  {% else %}
-    <p class="previous disabled">
-      <span>Previous</span>
-    </p>
-  {% endif %}
+
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
   {% if paginator.next_page %}
-    <p class="next">
-      <a href="{{ paginator.next_page_path }}">Next</a>
-    </p>
+    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
   {% else %}
     <p class="next disabled">
       <span>Next</span>
     </p>
   {% endif %}
-
 </div>
