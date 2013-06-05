@@ -6,10 +6,7 @@ title: index
 <div class='post'>
 	<section id="posts">
     {% for post in paginator.posts %}
-      {% if forloop.index == 1 %}
-        {% include post_header.html %}
-      {% endif %}
-      {% include post_index.html %}
+      {% include post.html %}
     {% endfor %}
 
   {% if paginator.total_pages > 1 %}
