@@ -5,3 +5,4 @@ pygments: true
 markdown: rdiscount
 #rdiscount
 timezone: Australia/Sydney
+paginate: 5
