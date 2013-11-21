@@ -16,8 +16,7 @@ All rights reserved.
 ### Existence; The Existence of a Human Being ###
 > The essence of the existence of each thing is what other things do to it, and what it does to other things. This is how to define existence - by the relation with other things. If one thing has no relations with any other things, the existence of it cannot be defined, and it will have to be determined as not existed.
 
--My Course Essay, The Existence and Sustainability of Architecture
-
+-My Course Essay, The Existence and Sustainability of Architecture  
 -Reference: Miguel Vatter, “Eternal Life and Biopower” , CR: The New Centennial Review, Volume 10, Number 3, Winter 2010, 217-249
 
 <p>
@@ -54,8 +53,7 @@ All rights reserved.
 
 > To form any kind of community, one must genuinely share morality with others; the cruel irony against one's nature, the life-long effort to bury one's instincts, and the blind obedience to what others respect. What is insane to outsiders actually connects people in a community. A community is only as stable as how insane the common values are, and how blind the people inside it are.
 
--My course work，as said in [http://archiheart.info/insanity.html](http://archiheart.info/insanity.html)
-
+-My course work，as said in [http://archiheart.info/insanity.html](http://archiheart.info/insanity.html)  
 -Reference: Nietzsche, Beyond Good and Evil, trans. Helen Zimmern, CHAPTER IV. APOPHTHEGMS AND INTERLUDES, 156
 
 <p>
