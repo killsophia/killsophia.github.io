@@ -16,9 +16,9 @@ All rights reserved.
 ### Existence; The Existence of a Human Being ###
 > The essence of the existence of each thing is what other things do to it, and what it does to other things. This is how to define existence - by the relation with other things. If one thing has no relations with any other things, the existence of it cannot be defined, and it will have to be determined as not existed.
 
-> -My Course Essay, The Existence and Sustainability of Architecture
+-My Course Essay, The Existence and Sustainability of Architecture
 
-> -Reference: Miguel Vatter, “Eternal Life and Biopower” , CR: The New Centennial Review, Volume 10, Number 3, Winter 2010, 217-249
+-Reference: Miguel Vatter, “Eternal Life and Biopower” , CR: The New Centennial Review, Volume 10, Number 3, Winter 2010, 217-249
 
 <p>
 如果说人的物理存在是由人的实体与自然的关系来定义的话，那么人的社会存在就是由人与他人的关系来定义的。哲学上所说的人的存在，并不是人的物理存在，而是人的社会存在。人的社会存在是道德的基础。
@@ -26,7 +26,7 @@ All rights reserved.
 ### Morals ###
 > To live alone one must be a beast or a god, says Aristotle. Leaving out the third case: one must be both — a philosopher.
 
-> -Nietzsche, Twilight of the Idols, trans. Walter Kaufmann and R.J. Hollingdale, MAXIMS AND ARROWS, 3.
+-Nietzsche, Twilight of the Idols, trans. Walter Kaufmann and R.J. Hollingdale, MAXIMS AND ARROWS, 3.
 
 <p>
 道德的本质是人类行为对他人造成的影响。因此，人在脱离了社会之后已经无所谓道德；如果一个个体的任何行为不会对其他个体造成任何影响，那么他的行为既无法被判断为道德的，也无法被判断为不道德的。但是，脱离社会的人就是去了他的社会存在，已经不再属于哲学讨论的范畴。
@@ -42,7 +42,7 @@ All rights reserved.
 
 > There are systems of morals which are meant to justify their author in the eyes of other people; other systems of morals are meant to tranquilize him, and make him self-satisfied; with other systems he wants to crucify and humble himself, with others he wishes to take revenge, with others to conceal himself, with others to glorify himself and gave superiority and distinction, — this system of morals helps its author to forget, that system makes him, or something of him, forgotten, many a moralist would like to exercise power and creative arbitrariness over mankind, many another, perhaps, Kant especially, gives us to understand by his morals that "what is estimable in me, is that I know how to obey— and with you it SHALL not be otherwise than with me!" In short, systems of morals are only a SIGN-LANGUAGE OF THE EMOTIONS.
 
-> -Friedrich Wilhelm Nietzsche, Beyond Good and Evil, trans. Helen Zimmern, Chapter V. The Nature History of Morals, 187.
+-Friedrich Wilhelm Nietzsche, Beyond Good and Evil, trans. Helen Zimmern, Chapter V. The Nature History of Morals, 187.
 
 <p>
 如上所述，道德是通过以感情约束人的天性来维持人与人之间的关系，以确保社会存在的机制。
@@ -54,9 +54,9 @@ All rights reserved.
 
 > To form any kind of community, one must genuinely share morality with others; the cruel irony against one's nature, the life-long effort to bury one's instincts, and the blind obedience to what others respect. What is insane to outsiders actually connects people in a community. A community is only as stable as how insane the common values are, and how blind the people inside it are.
 
-> -My course work，as said in [http://archiheart.info/insanity.html](http://archiheart.info/insanity.html)
+-My course work，as said in [http://archiheart.info/insanity.html](http://archiheart.info/insanity.html)
 
-> -Reference: Nietzsche, Beyond Good and Evil, trans. Helen Zimmern, CHAPTER IV. APOPHTHEGMS AND INTERLUDES, 156
+-Reference: Nietzsche, Beyond Good and Evil, trans. Helen Zimmern, CHAPTER IV. APOPHTHEGMS AND INTERLUDES, 156
 
 <p>
 人应当遵循他所处社会的道德。如果认为一个社会的道德是错误的，那么只有两种选择：要么强迫自己遵循自己认为是错误的规则；要么选择离开这个社会，去自己能够遵循它的道德的社会。
