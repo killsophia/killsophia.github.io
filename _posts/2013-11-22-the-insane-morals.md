@@ -20,8 +20,7 @@ All rights reserved.
 
 > -Reference: Miguel Vatter, “Eternal Life and Biopower” , CR: The New Centennial Review, Volume 10, Number 3, Winter 2010, 217-249
 
-
-
+<p>
 如果说人的物理存在是由人的实体与自然的关系来定义的话，那么人的社会存在就是由人与他人的关系来定义的。哲学上所说的人的存在，并不是人的物理存在，而是人的社会存在。人的社会存在是道德的基础。
 
 ### Morals ###
@@ -29,8 +28,7 @@ All rights reserved.
 
 > -Nietzsche, Twilight of the Idols, trans. Walter Kaufmann and R.J. Hollingdale, MAXIMS AND ARROWS, 3.
 
-
-
+<p>
 道德的本质是人类行为对他人造成的影响。因此，人在脱离了社会之后已经无所谓道德；如果一个个体的任何行为不会对其他个体造成任何影响，那么他的行为既无法被判断为道德的，也无法被判断为不道德的。但是，脱离社会的人就是去了他的社会存在，已经不再属于哲学讨论的范畴。
 
 尼采认为哲学家应当脱离一般的善恶观点看待人类，因此需要消灭哲学家的社会属性。但是，哲学家对人类的研究不可能真正脱离人类社会，而且一定会对人类社会造成影响，因此哲学家的社会属性不可能完全消失。哲学家仍然遵从一定的道德规范进行生活，即使这个道德规范是属于哲学家这个群体的、与非哲学家群体的道德规范远远不同。
@@ -46,8 +44,7 @@ All rights reserved.
 
 > -Friedrich Wilhelm Nietzsche, Beyond Good and Evil, trans. Helen Zimmern, Chapter V. The Nature History of Morals, 187.
 
-
-
+<p>
 如上所述，道德是通过以感情约束人的天性来维持人与人之间的关系，以确保社会存在的机制。
 
 ### Why Morals are Insane ###
@@ -61,8 +58,7 @@ All rights reserved.
 
 > -Reference: Nietzsche, Beyond Good and Evil, trans. Helen Zimmern, CHAPTER IV. APOPHTHEGMS AND INTERLUDES, 156
 
-
-
+<p>
 人应当遵循他所处社会的道德。如果认为一个社会的道德是错误的，那么只有两种选择：要么强迫自己遵循自己认为是错误的规则；要么选择离开这个社会，去自己能够遵循它的道德的社会。
 
 ### 相关名词 ###
