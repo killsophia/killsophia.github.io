@@ -68,8 +68,6 @@ Instincts，一般译为天性
 
 Nietzsche, Twilight of the Idols, trans. Walter Kaufmann and R.J. Hollingdale.
 
-Nietzsche, Twilight of the Idols, trans. Anthony Ludovici
-
 Nietzsche, Beyond Good and Evil, trans Helen Zimmern
 
 Plato, Republic, trans. Benjamin Jowett. 
