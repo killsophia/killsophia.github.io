@@ -2,7 +2,7 @@ permalink: /:title.html
 server: true
 auto: true
 pygments: true
-markdown: rdiscount
+markdown: kramdown
 #rdiscount
 timezone: Australia/Sydney
 paginate: 3
